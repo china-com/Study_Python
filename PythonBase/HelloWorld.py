@@ -76,7 +76,7 @@ count = 0
 while count < 3:
     user = input(">>>")
     pwd = input(">>>")
-    if user="sayschj" and pwd="123456"：
+    if user=="sayschj" and pwd=="123456"：
     print("欢迎登录！")
     print("...........")
     break
@@ -101,7 +101,7 @@ print("Happy " + str(age) + "rd Brithday!")
 # 在字符串中使用数字类型的变量时，需要显式地将数字转换成字符串（使用：str()）,
 # 因为，此时Python分不清这个变量到底表示是整数：18, 还是字符表示：1和8.
 
-# in和not in的使用:
+# 成员运算符in和not in的使用:
 # 判断某个东西是否包含在某个字符串的里面
 name = "张国荣"
 # "张国荣"		字符串
@@ -114,3 +114,10 @@ if "b" in name:
     print('OK')
 else:
     print('Error')
+
+'''
+count =1
+count +=1
+count *=1
+count **=1  幂次方
+'''
