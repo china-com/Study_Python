@@ -102,14 +102,15 @@ print("Happy " + str(age) + "rd Brithday!")
 # 因为，此时Python分不清这个变量到底表示是整数：18, 还是字符表示：1和8.
 
 # in和not in的使用:
+# 判断某个东西是否包含在某个字符串的里面
 name = "张国荣"
 # "张国荣"		字符串
 # "张"	字符
 # "国荣"	子字符串，子序列
-b = "正"  # Error
-b = "张国"  # OK
+# b = "正"  # Error
+# b = "张国"  # OK
 b = "张荣"  # Error
-if "正" in name:
+if "b" in name:
     print('OK')
 else:
     print('Error')
