@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e706e92-271b-4071-a045-c4977448fb35" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/PythonBase/HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBase/HelloWorld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,17 +12,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Study_Python$HelloWorld__1_.coverage" NAME="HelloWorld (1) Coverage Results" MODIFIED="1523614960811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase" />
+    <SUITE FILE_PATH="coverage/Study_Python$HelloWorld__1_.coverage" NAME="HelloWorld (1) Coverage Results" MODIFIED="1523617992748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase" />
+    <SUITE FILE_PATH="coverage/Study_Python$PythonBaseType.coverage" NAME="PythonBaseType Coverage Results" MODIFIED="1523625418860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase" />
     <SUITE FILE_PATH="coverage/Study_Python$Test.coverage" NAME="Test Coverage Results" MODIFIED="1523614809221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase" />
     <SUITE FILE_PATH="coverage/Study_Python$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1523455216031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HelloWorld.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloWorld.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonBase/HelloWorld.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="101" column="12" lean-forward="true" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
+            <state relative-caret-position="1482">
+              <caret line="78" column="41" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PythonBaseType.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonBase/PythonBaseType.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="68" column="21" lean-forward="true" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -51,6 +75,7 @@
         <option value="$PROJECT_DIR$/PythonBase/test2.py" />
         <option value="$PROJECT_DIR$/PythonBase/Test.py" />
         <option value="$PROJECT_DIR$/PythonBase/HelloWorld.py" />
+        <option value="$PROJECT_DIR$/PythonBase/PythonBaseType.py" />
       </list>
     </option>
   </component>
@@ -61,16 +86,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1168" />
-    <option name="y" value="92" />
-    <option name="width" value="1043" />
-    <option name="height" value="907" />
+    <option name="x" value="125" />
+    <option name="y" value="66" />
+    <option name="width" value="1044" />
+    <option name="height" value="908" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -109,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.HelloWorld (1)">
+  <component name="RunManager" selected="Python.PythonBaseType">
     <configuration name="HelloWorld (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Study_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,6 +174,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="PythonBaseType" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBase/PythonBaseType.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Study_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,9 +216,11 @@
       <item itemvalue="Python.HelloWorld" />
       <item itemvalue="Python.HelloWorld (1)" />
       <item itemvalue="Python.Test" />
+      <item itemvalue="Python.PythonBaseType" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PythonBaseType" />
         <item itemvalue="Python.HelloWorld (1)" />
         <item itemvalue="Python.Test" />
         <item itemvalue="Python.HelloWorld" />
@@ -194,7 +241,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="935" y="74" width="834" height="725" extended-state="0" />
+    <frame x="100" y="53" width="835" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -202,11 +249,11 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32733223" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4991511" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24878049" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24839126" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32947233" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -221,7 +268,7 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24963924" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24878049" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24839126" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -230,7 +277,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32733223" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3378608" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -250,13 +297,37 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
+    <entry file="file://$PROJECT_DIR$/PythonBase/HelloWorld.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="1482">
+          <caret line="78" column="41" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-247082730/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90041">
+          <caret line="4739" column="45" selection-start-line="4739" selection-start-column="4" selection-end-line="4739" selection-end-column="45" />
+          <folding>
+            <element signature="e#155795#155989#0" />
+            <element signature="e#156071#156206#0" />
+            <element signature="e#156634#156905#0" />
+            <element signature="e#157020#157561#0" />
+            <element signature="e#157673#158023#0" />
+            <element signature="e#158118#158350#0" />
+            <element signature="e#158455#158781#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/PythonBaseType.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
     <entry file="file://$PROJECT_DIR$/PythonBase/HelloWorld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -264,20 +335,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/Test.py" />
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
     <entry file="file://$PROJECT_DIR$/PythonBase/HelloWorld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -285,13 +344,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
     <entry file="file://$PROJECT_DIR$/PythonBase/HelloWorld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -299,69 +352,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
     <entry file="file://D:/Python36-32/Lib/_sitebuiltins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -376,31 +375,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-247082730/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="475" column="4" selection-start-line="475" selection-start-column="4" selection-end-line="475" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/Test.py" />
+    <entry file="file://$PROJECT_DIR$/PythonBase/LetterUpLower.py" />
     <entry file="file://$PROJECT_DIR$/PythonBase/HelloWorld.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="101" column="12" lean-forward="true" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
+        <state relative-caret-position="1482">
+          <caret line="78" column="41" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-247082730/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4739" column="45" selection-start-line="4739" selection-start-column="4" selection-end-line="4739" selection-end-column="45" />
+          <folding>
+            <element signature="e#155795#155989#0" />
+            <element signature="e#156071#156206#0" />
+            <element signature="e#156634#156905#0" />
+            <element signature="e#157020#157561#0" />
+            <element signature="e#157673#158023#0" />
+            <element signature="e#158118#158350#0" />
+            <element signature="e#158455#158781#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/PythonBaseType.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="68" column="21" lean-forward="true" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
         </state>
       </provider>
     </entry>
